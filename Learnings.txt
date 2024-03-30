@@ -1,1 +1,2 @@
-
+Difference between wrapper class and data type?
+Wrapper takes the who object memory and also gives the all functionality of that class While, Data type have only single form if select int then int . 
