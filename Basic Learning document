@@ -25,3 +25,4 @@ more.
    
 3) What is Wrapper class ?
 => The classes which are composed(made up) of primitive data types are known as wrapper classes.
+The value of a wrapper class object encompasses the entirety of the class, including its attributes, methods, and behaviors.   	
