@@ -5,7 +5,6 @@ static means if we want to access the class object and method it is used because
 void is a return type it means it will not return any thing
 main is a method.
 
-
 Total data type 8
 Primitive data type Primitive data structure is the data structure that allows you to store only single data type values
 
@@ -40,7 +39,7 @@ Class
 7) Why wrapper class is needed ? It have value of whole class object
 8) Java have all thing in class
 9) difference between byte and Byte class 
-byte -> allocates 1 byte by default
+byte -> allocates 1 byte by default.
 Byte -> it's wrapper class and it have whole class object bytes
 
 10) Difference between wrapper class and data type?
