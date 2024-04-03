@@ -26,3 +26,7 @@ more.
 3) What is Wrapper class ?
 => The classes which are composed(made up) of primitive data types are known as wrapper classes.
 The value of a wrapper class object encompasses the entirety of the class, including its attributes, methods, and behaviors.   	
+
+4) What is difference between Wrapper class and primitive data type ?
+=> A wrapper class encapsulates the entire object's memory, offering all functionalities of the associated class. Conversely, primitive data types possess only 
+a singular form; for instance, selecting "int" will remain solely as "int."
