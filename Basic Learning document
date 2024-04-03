@@ -1,0 +1,27 @@
+1) What is primitive data type?
+=> Primitive data types are the most basic data types provided by the language, and they are not objects.They represent simple values. 
+   There are eight primitive data types in Java:
+   1) byte
+   2) short 
+   3) int
+   4) long
+   5) float
+   6) double 
+   7) char
+   8) boolean
+   It always starts with small letter.
+=> The term "Primitive data type" refers to a data structure capable of storing singular data type values.
+
+2) What is Non-primitive data type ? 
+=>Non-primitive data structures are data structures that enable the storage of multiple data type values. 
+Examples of non-primitive data structures include arrays, linked lists, stacks, queues, trees, and graphs. 
+These structures are capable of holding elements of various types, such as integers, booleans, characters, floats, and 
+more.
+	1) String
+	2) StringBuffer
+	3) StringBuilder
+	4) Date
+	5) Array etc....
+   
+3) What is Wrapper class ?
+=> The classes which are composed(made up) of primitive data types are known as wrapper classes.
