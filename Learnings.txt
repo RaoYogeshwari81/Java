@@ -1,3 +1,11 @@
+The Main method which the java application contains is Public static void main
+
+Public class so its useable gloabally 
+static means if we want to access the class object and method it is used because it dont needs to be intialized but also we can use it.
+void is a return type it means it will not return any thing
+main is a method.
+
+
 Total data type 8
 Primitive data type Primitive data structure is the data structure that allows you to store only single data type values
 
@@ -36,5 +44,5 @@ byte -> allocates 1 byte by default
 Byte -> it's wrapper class and it have whole class object bytes
 
 10) Difference between wrapper class and data type?
--> Wrapper takes the who object memory and also gives the all functionality of that class While, Data type have only single form if select int then int .
+-> Wrapper takes the whole object memory and also gives the all functionality of that class While, Data type have only single form if select int then int .
 11)
