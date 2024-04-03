@@ -1,3 +1,40 @@
-1) Difference between wrapper class and data type?
+Total data type 8
+Primitive data type Primitive data structure is the data structure that allows you to store only single data type values
+
+Byte
+Short
+Integer
+Long
+Float
+Double
+Boolean
+Character
+
+String
+StringBuffer
+StringBuilder
+Date
+Array
+etc....
+
+
+Total data type 8
+Non Primitive data 
+Non-Primitive data structure is a data structure that allows you to store multiple data type values. integer, boolean, character, float, etc. are some examples of primitive data structures
+Class
+
+
+2) The classes which are made up of primitive data type is known as wrapper class
+3) The biggest data type is String.
+4) String is a collection of character or array of character.
+5) If you store any value in character or string data type and print it then it will return the ascii value of character.
+6) String[] in public static void main takes the value from the console(CMD).
+7) Why wrapper class is needed ? It have value of whole class object
+8) Java have all thing in class
+9) difference between byte and Byte class 
+byte -> allocates 1 byte by default
+Byte -> it's wrapper class and it have whole class object bytes
+
+10) Difference between wrapper class and data type?
 -> Wrapper takes the who object memory and also gives the all functionality of that class While, Data type have only single form if select int then int .
-2) 
+11)
